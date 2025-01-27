@@ -1,9 +1,9 @@
 {
-  "name": "presentkim/item-serialize-utils",
+  "name": "victualler/item-serialize-utils",
   "description": "Provides utils for (de)serialize more shorter and easier for PocketMine-MP",
   "type": "library",
   "license": "MIT",
-  "require": {
+  "require-dev": {
     "pocketmine/pocketmine-mp": "^5.0.0"
   },
   "autoload": {
